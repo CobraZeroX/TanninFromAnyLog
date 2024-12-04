@@ -1,0 +1,10 @@
+{
+  "type": "content",
+  "modid": "tanninfromanylog",
+  "name": "Tannin From Any Log",
+  "authors": [
+    "CobraZeroX"
+  ],
+  "description": "Allows tannin to be made from any type of log, not just oak or acacia.",
+  "version": "1.0.0"
+}
